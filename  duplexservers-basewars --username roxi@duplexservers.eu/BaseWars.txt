@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"base"		"sandbox"
+    "title"  "BaseWars"
+    "version"   "1.0"
+    "menusystem"	"1"
+
+    "author_name"   "Roxi, Jammin123"
+    "author_email"  "roxi@duplexservers.eu"
+    "author_url"    "http://duplexservers.eu"
+
+    "maps"  "^bw_"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
